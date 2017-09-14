@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProductFinal</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="invalid_password">Minimum Legth 8</string>
+    <string name="missing">Require Field Is Missing</string>
+    <string name="pass_do_not_match">Password Do Not Match</string>
+</resources>

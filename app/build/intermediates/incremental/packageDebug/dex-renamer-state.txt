@@ -1,0 +1,7 @@
+#Tue May 02 11:09:44 IST 2017
+base.0=/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b6e64d11d8ffebd38224b7d991c2420a5d99d02
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abd8e1591dd5306f14ee0cc663430d2b7a4c27b8/classes.dex
+base.1=/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abd8e1591dd5306f14ee0cc663430d2b7a4c27b8
+file.0=/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b6e64d11d8ffebd38224b7d991c2420a5d99d02/classes.dex

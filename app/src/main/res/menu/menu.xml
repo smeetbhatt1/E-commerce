@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/homeMenu"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/signInMenu"
+        android:title="Sign In"/>
+
+    <item
+        android:id="@+id/profileMenu"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/cartOption"
+        android:title="Cart"/>
+
+    <item
+        android:id="@+id/complaintOption"
+        android:title="Complaint"/>
+
+    <item
+        android:id="@+id/logoutMenu"
+        android:title="Logout"/>
+
+    <item
+        android:id="@+id/aboutUsOption"
+        android:title="About Us"/>
+
+
+
+
+</menu>

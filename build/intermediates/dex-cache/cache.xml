@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/smeet/Downloads/ProductFinal 2/app/libs/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_fd6a8d8d93288b40b84cf32b9eba76ba99732eac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smeet/Downloads/ProductFinal 2/app/libs/KGJsonConverter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/KGJsonConverter_08c7c50ee5c43208c534be52bf2b85fb0e0e4bd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49b56bb2b14ff1bd3bd8a5065777f2762e7b8d8b">
+        <dex dex="/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b6e64d11d8ffebd38224b7d991c2420a5d99d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abd8e1591dd5306f14ee0cc663430d2b7a4c27b8/classes.dex" />
+    </item>
+
+</items>

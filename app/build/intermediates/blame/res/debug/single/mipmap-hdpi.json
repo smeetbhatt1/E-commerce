@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/smeet/Downloads/ProductFinal 2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smeet/AndroidStudioProjects/ProductFinal/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/smeet/AndroidStudioProjects/ProductFinal/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smeet/AndroidStudioProjects/ProductFinal/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/smeet/AndroidStudioProjects/ProductFinal/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smeet/Downloads/ProductFinal 2/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/smeet/Downloads/ProductFinal 2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
